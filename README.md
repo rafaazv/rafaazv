@@ -1,6 +1,8 @@
 # Raphael — Cibersegurança & Operações de Segurança
 
-Profissional de Tecnologia com quase 4 anos de experiência na **Samsung SDS**, atuando como Analista de Sistemas e com 6 meses de vivência prática no time de Cibersegurança da Samsung.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-azevedo-ti/)
+
+Profissional de Tecnologia com quase 4 anos de experiência na **Samsung SDS**, atuando como Analista de Sistemas e com 6 meses de vivência prática no time interno de Cibersegurança da Samsung.
 
 Atualmente direcionando minha carreira para **SOC N1, Resposta a Incidentes e Blue Team**, por meio da Trilha de SOC da LetsDefend e de laboratórios práticos de análise de ameaças e monitoramento defensivo.
 
